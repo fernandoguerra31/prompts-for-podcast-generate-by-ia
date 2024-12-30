@@ -51,7 +51,7 @@ Projeto entregue: Podcast "Corrida Garantida" na pasta output e capa na pasta as
 O nome deve ser enxuto. Um nome e um subtítulo. Outra coisa que eu quero é que o nome tenha algum trocadilho com a profissão de bancário
 Não quero que o nome contenha palavras em inglês"
 
-"Você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia, focado em python cujo nome é "Corrida Garantida - Investindo em saúde, rendendo bem-estar" e tem foco em dicas para iniciar na atividade física de corrida."
+"Você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia, focado em corrida cujo nome é "Corrida Garantida - Investindo em saúde, rendendo bem-estar" e tem foco em dicas para iniciar na atividade física de corrida."
 
 
 
