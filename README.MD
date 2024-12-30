@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Corrida Garantida
 </p>
 
 <div align="center">
